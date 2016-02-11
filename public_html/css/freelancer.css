@@ -1,0 +1,37 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+@import url(https://fonts.googleapis.com/css?family=Dosis);
+
+h2{
+	font-family: 'Oswald' ;
+	font-size:2.2em;
+	color:#820010;
+	margin-top:5%;
+	letter-spacing: 1px;
+}
+
+h3{
+	font-family: 'Oswald' ;
+	font-size:3.2em;
+	color:#820010;
+	padding-top: 5%;
+	padding-bottom:2%;
+	letter-spacing: 1px;
+}
+
+h4{
+	font-family:'Dosis';
+	font-size:2em;
+	font-style: italic;
+}
+
+p{
+	font-family:'Dosis';
+	font-size:1.5em;
+}
+
+.logo img {
+	background-image: url(../img/Logo.png) no-repeat ;
+	max-width: 18%;
+}
+
+
